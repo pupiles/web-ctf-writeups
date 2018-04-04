@@ -24,3 +24,7 @@ web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联
 [https://blog.cal1.cn/post/0CTF%202018%20Quals%20Bl0g%20writeup](https://blog.cal1.cn/post/0CTF%202018%20Quals%20Bl0g%20writeup)
 ### h4xors.club2
 [http://www.wupco.cn/?p=4408](http://www.wupco.cn/?p=4408)
+# PWNHUB
+### 目瞪口呆
+[http://f1sh.site/2018/04/01/pwnhub-%e7%9b%ae%e7%9e%aa%e5%8f%a3%e5%91%86-writeup/](http://f1sh.site/2018/04/01/pwnhub-%e7%9b%ae%e7%9e%aa%e5%8f%a3%e5%91%86-writeup/)
+[https://zhuanlan.zhihu.com/p/35245598](https://zhuanlan.zhihu.com/p/35245598)
