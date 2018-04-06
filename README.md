@@ -10,7 +10,7 @@ web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联
 [http://dann.com.br/php-winning-the-race-condition-vs-temporary-file-upload-alternative-way-to-easy_php-n1ctf2018/](http://dann.com.br/php-winning-the-race-condition-vs-temporary-file-upload-alternative-way-to-easy_php-n1ctf2018/)
 # 第二届强网杯
 ### 大部分题解
-[https://www.cnblogs.com/iamstudy/articles/2th_qiangwangbei_ctf_writeup.html](https://www.cnblogs.com/iamstudy/articles/2th_qiangwangbei_ctf_writeup.html)
+[https://www.cnblogs.com/iamstudy/articles/2th_qiangwangbei_ctf_writeup.html](https://www.cnblogs.com/iamstudy/articles/2th_qiangwangbei_ctf_writeup.html)    
 [https://lorexxar.cn/2018/03/26/qwb2018/](https://lorexxar.cn/2018/03/26/qwb2018/)
 ### Python is the best language
 [http://skysec.top/2018/04/01/Python-is-the-best-language/](http://skysec.top/2018/04/01/Python-is-the-best-language/)
