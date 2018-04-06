@@ -17,13 +17,18 @@ web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联
 ### 强网杯教育机构的培训平台
 [http://pupiles.com/qiangwangbei2.html](http://pupiles.com/qiangwangbei2.html)
 # 0CTF/TCTF
+### 大部分题解
+[https://www.lorexxar.cn/2018/04/05/0ctf2018-other/](https://www.lorexxar.cn/2018/04/05/0ctf2018-other/)
 ### EZDOOR
 [https://www.cdxy.me/?p=790](https://www.cdxy.me/?p=790)
 [https://blog.zsxsoft.com/post/36](https://blog.zsxsoft.com/post/36)
 ### 2018 qUALS Bl0g
 [https://blog.cal1.cn/post/0CTF%202018%20Quals%20Bl0g%20writeup](https://blog.cal1.cn/post/0CTF%202018%20Quals%20Bl0g%20writeup)
+[https://www.lorexxar.cn/2018/04/05/0ctf2018-blog/](https://www.lorexxar.cn/2018/04/05/0ctf2018-blog/)
 ### h4xors.club2
 [http://www.wupco.cn/?p=4408](http://www.wupco.cn/?p=4408)
+### Easy User Manage System
+[https://coxxs.me/676](https://coxxs.me/676)
 # PWNHUB
 ### 目瞪口呆
 [http://f1sh.site/2018/04/01/pwnhub-%e7%9b%ae%e7%9e%aa%e5%8f%a3%e5%91%86-writeup/](http://f1sh.site/2018/04/01/pwnhub-%e7%9b%ae%e7%9e%aa%e5%8f%a3%e5%91%86-writeup/)
