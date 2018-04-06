@@ -1,5 +1,5 @@
 # web-ctf-writeups
-web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联系我删除。另欢迎各位师傅投递链接。该repo会不断更新，最近更新日期为：2018/4/4。
+web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联系我删除。另欢迎各位师傅投递链接。该repo会不断更新，最近更新日期为：2018/4/6。
 # N1CTF
 ### 大部分题解
 [http://www.bendawang.site/2018/03/13/N1CTF-2018-Web-writeup/](http://www.bendawang.site/2018/03/13/N1CTF-2018-Web-writeup/)
