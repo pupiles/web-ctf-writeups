@@ -1,5 +1,5 @@
 # web-ctf-writeups
-web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联系我删除。另欢迎各位师傅投递链接。该repo会不断更新，最近更新日期为：2018/4/6。
+web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联系我删除。另欢迎各位师傅投递链接。该repo会不断更新，最近更新日期为：2018/4/19。
 # N1CTF
 ### 大部分题解
 [http://www.bendawang.site/2018/03/13/N1CTF-2018-Web-writeup/](http://www.bendawang.site/2018/03/13/N1CTF-2018-Web-writeup/)
@@ -33,3 +33,8 @@ web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联
 ### 目瞪口呆
 [http://f1sh.site/2018/04/01/pwnhub-%e7%9b%ae%e7%9e%aa%e5%8f%a3%e5%91%86-writeup/](http://f1sh.site/2018/04/01/pwnhub-%e7%9b%ae%e7%9e%aa%e5%8f%a3%e5%91%86-writeup/)    
 [https://zhuanlan.zhihu.com/p/35245598](https://zhuanlan.zhihu.com/p/35245598)
+# HITB GESC CTF
+### 大部分题解
+[https://www.xctf.org.cn/library/details/hitb-quals-2018/](https://www.xctf.org.cn/library/details/hitb-quals-2018/)
+### Readfile
+[https://nandynarwhals.org/hitbgsecquals2018-readfile/](https://nandynarwhals.org/hitbgsecquals2018-readfile/)
