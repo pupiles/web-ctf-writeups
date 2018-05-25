@@ -1,5 +1,5 @@
 # web-ctf-writeups
-web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联系我删除。另欢迎各位师傅投递链接。该repo会不断更新，最近更新日期为：2018/4/19。
+web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联系我删除。另欢迎各位师傅投递链接。该repo会不断更新，最近更新日期为：2018/5/25。
 # N1CTF
 ### 大部分题解
 [http://www.bendawang.site/2018/03/13/N1CTF-2018-Web-writeup/](http://www.bendawang.site/2018/03/13/N1CTF-2018-Web-writeup/)
@@ -38,3 +38,16 @@ web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联
 [https://www.xctf.org.cn/library/details/hitb-quals-2018/](https://www.xctf.org.cn/library/details/hitb-quals-2018/)
 ### Readfile
 [https://nandynarwhals.org/hitbgsecquals2018-readfile/](https://nandynarwhals.org/hitbgsecquals2018-readfile/)
+# 红帽杯
+### 大部分题解
+[http://skysec.top/2018/05/01/2018-RedHat-Web-Misc/](http://skysec.top/2018/05/01/2018-RedHat-Web-Misc/)
+# CSTC
+### 大部分题解
+[http://skysec.top/2018/05/12/2018%E5%B9%B4%E7%AC%AC%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF%E5%A4%A7%E8%B5%9B/](http://skysec.top/2018/05/12/2018%E5%B9%B4%E7%AC%AC%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF%E5%A4%A7%E8%B5%9B/)
+# RCTF
+### 大部分题解
+[https://xz.aliyun.com/t/2347](https://xz.aliyun.com/t/2347)
+### rBlog
+[https://graneed.hatenablog.com/entry/2018/05/21/121851](https://graneed.hatenablog.com/entry/2018/05/21/121851)    
+### amp
+[https://graneed.hatenablog.com/entry/2018/05/21/121811](https://graneed.hatenablog.com/entry/2018/05/21/121811)
