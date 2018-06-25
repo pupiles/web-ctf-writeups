@@ -1,5 +1,5 @@
 # web-ctf-writeups
-web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联系我删除。另欢迎各位师傅投递链接。该repo会不断更新，最近更新日期为：2018/5/25。
+web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联系我删除。另欢迎各位师傅投递链接。该repo会不断更新，最近更新日期为：2018/6/26。
 # N1CTF
 ### 大部分题解
 [http://www.bendawang.site/2018/03/13/N1CTF-2018-Web-writeup/](http://www.bendawang.site/2018/03/13/N1CTF-2018-Web-writeup/)
@@ -51,3 +51,13 @@ web狗爬坑中的学习的writeup整合。 如果有师傅认为侵权，请联
 [https://graneed.hatenablog.com/entry/2018/05/21/121851](https://graneed.hatenablog.com/entry/2018/05/21/121851)    
 ### amp
 [https://graneed.hatenablog.com/entry/2018/05/21/121811](https://graneed.hatenablog.com/entry/2018/05/21/121811)
+# SCTF
+### 大部分题解
+[https://xz.aliyun.com/t/2405](https://xz.aliyun.com/t/2405)
+[http://sec2hack.com/ctf/sctf2018-web-writeup.html](http://sec2hack.com/ctf/sctf2018-web-writeup.html)
+[https://www.xctf.org.cn/library/details/242b5bc84314a983ee39d5bb5aab5243c875e3fc/](https://www.xctf.org.cn/library/details/242b5bc84314a983ee39d5bb5aab5243c875e3fc/)
+### BabySyc - Simple PHP
+[https://www.cnblogs.com/iamstudy/articles/sctf2018_simple_php_web_writeup.html](https://www.cnblogs.com/iamstudy/articles/sctf2018_simple_php_web_writeup.html)
+### Zhuanxv
+[http://hebic.me/2018/06/20/SCTF2018-Zhuanxv-Writeup/](http://hebic.me/2018/06/20/SCTF2018-Zhuanxv-Writeup/)
+
